@@ -128,6 +128,14 @@ Before the three main analyses, a quick exploration of the match dataset reveale
 
 ---
 
+
+
+## ▶️ View in Google Colab
+
+Click the badge below to open and run this notebook interactively in Google Colab — no setup required.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BzWPXJtr_9OuuTWtoGyxrQ9EUsLNs7wW?usp=sharing)
+
 ## 📌 Notes
 
 - The dataset covers IPL seasons **2008 to 2020** only. Seasons after 2020 are not included.
