@@ -138,7 +138,8 @@ Before the three main analyses, a quick exploration of the match dataset reveale
 
 ## 👤 Author
 
-> *Add your name and contact here*
+> Probin Dhakal
+> Email: probindhakal5@gmail.com
 
 ---
 
