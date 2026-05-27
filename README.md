@@ -51,7 +51,6 @@ An in-depth breakdown of how Rohit Sharma (RG Sharma) scored his runs across IPL
 
 **Visualisation — Pie Chart: Runs Distribution by Shot Type**
 
-> 📷 *Add your plot here*
 >
 > ![Rohit Sharma Runs Distribution](plots/rgs_stats.png)
 
@@ -72,7 +71,6 @@ An investigation into whether the team that wins the toss has a statistically me
 
 **Visualisation — Pie Chart: Toss Win vs Match Win**
 
-> 📷 *Add your plot here*
 >
 > ![Toss Win vs Match Win](plots/toss_vs_match_win.png)
 
@@ -94,7 +92,6 @@ A comparative analysis of all IPL franchises — measuring how many matches each
 
 **Visualisation — Grouped Bar Chart: Matches Played vs Wins (with Win %)**
 
-> 📷 *Add your plot here*
 >
 > ![IPL Teams Win Statistics](plots/team_win_statistics.png)
 
